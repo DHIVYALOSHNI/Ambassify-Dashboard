@@ -48,4 +48,3 @@ Ambassify is a smart and interactive dashboard designed to track and analyze cam
 - Real-time API data
 - Advanced authentication system
 - Mobile app version
-- 
